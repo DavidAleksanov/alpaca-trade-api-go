@@ -15,7 +15,7 @@ To use this repository, you need to have Go installed on your system.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/alpaca-trade-api-go.git
+    git clone https://github.com/daroneeee/alpaca-trade-api-go.git
     cd alpaca-trade-api-go
     ```
 
